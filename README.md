@@ -9,6 +9,16 @@ ArtSpeakv2 is a SwiftUI-based iOS application designed to explore artworks, list
 
 <img width="379" alt="Screenshot 2024-05-22 at 2 40 31 AM" src="https://github.com/srimoyee1212/Art-Speak/assets/30791239/7959f8a2-c940-4bec-9777-44333036d269">
 
+# Tech Stuff
+
+![image](https://github.com/srimoyee1212/Art-Speak/assets/30791239/bbd52615-eaf8-4876-9059-569a52cedec4)
+
+
+ArtSpeak utilizes the YOLOv3 model to recognize artworks and generate descriptions. YOLOv3 is an iteration of the famous YOLO models that revolutionized Computer Vision. 
+Here I use it to detect artworks from camera images and then perform a visual lookup.
+
+Read more on YOLOv3: [YOLOv3 is an incremental step forward](https://viso.ai/deep-learning/yolov3-overview/)
+
 ## Features
 
 - **Artwork Exploration**: Browse artworks categorized into different rooms.
